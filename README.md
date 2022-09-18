@@ -1,7 +1,7 @@
 [![MasterHead][([https://i.pinimg.com/564x/af/65/06/af6506215bad1a5fa2b6aa32f07c46ed.jpg](https://www.eviaglobal.com/images/Front-End-Web-Development.jpg))]](https://www.eviaglobal.com/images/Front-End-Web-Development.jpg)
 <h1 align="center">Hi 👋, I'm Preet Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width = "400px" src = "https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align = "right" alt="coding" width = "300px" src = "https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 <p align="left"> <a href="https://twitter.com/lit_preet" target="blank"><img src="https://img.shields.io/twitter/follow/lit_preet?logo=twitter&style=for-the-badge" alt="lit_preet" /></a> </p>
 
