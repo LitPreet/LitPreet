@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lit_preet" target="blank"><img src="https://img.shields.io/twitter/follow/lit_preet?logo=twitter&style=for-the-badge" alt="lit_preet" /></a> </p>
 
-- 🌱 I’m currently learning **Vanilla JavaScript, react native**
+- 🌱 I’m currently learning **Vanilla JavaScript, react**
 
 - 💬 Ask me about **Tailwind CSS**
 
