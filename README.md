@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tailwind CSS**
 
-- 📫 How to reach me **preetbhardwaj327@gmail.com**
+- 📫 How to reach me **preetb059@gmail.com**
 
 - ⚡ Fun fact -- **I once answered the world’s oldest question with a single line of JavaScript 
   // Which came first: the chicken or the egg? 
