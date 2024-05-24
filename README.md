@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/lit_preet" target="blank"><img src="https://img.shields.io/twitter/follow/lit_preet?logo=twitter&style=for-the-badge" alt="lit_preet" /></a> </p>
 
-- 🌱 I’m currently learning **Vanilla JavaScript, react**
+- 🌱 I’m currently making a web app using Socket.io
 
-- 💬 Ask me about **Tailwind CSS**
+- 💬 Ask me about **React Js , Next Js, Javascript**
 
 - 📫 How to reach me **preetb059@gmail.com**
 
